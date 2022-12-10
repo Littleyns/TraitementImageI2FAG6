@@ -7,7 +7,10 @@
 [YOLOv7 github](https://github.com/WongKinYiu/yolov7)
 
 # pip install required packages
+
+``` shell
 pip install requirement.txt
+```
 
 ## Inference
 
