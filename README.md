@@ -30,7 +30,7 @@ python3 main.py
 
 <div align="center">
     <a href="./">
-        <img src="illustrations/dataset_sample.png" width="79%"/>
+        <img src="illustrations/dataset_sample.png" width="40%"/>
     </a>
 </div>
 
