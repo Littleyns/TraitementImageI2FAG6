@@ -20,7 +20,7 @@ pip install requirement.txt
 
 ## Inference
 
-[`model_detection_place_de_parking.pt`](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt)
+[`model_detection_place_de_parking.pt`](https://drive.google.com/file/d/1fUaCY3Y4cQ25UkDg87493DWbP4VpwiDl/view?usp=share_link)
 
 ``` shell
 python3 main.py 
