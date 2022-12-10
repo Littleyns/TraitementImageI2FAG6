@@ -142,7 +142,7 @@ def create_img_anno(dataset,name):
     dataiter = iter(dataset)
     
     
-    print("error")
+    print("start")
     for ele in range(taille):
     #for ele in range(1):
         
