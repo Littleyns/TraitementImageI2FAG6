@@ -38,5 +38,5 @@ python3 main.py
 * [https://github.com/DingXiaoH/RepVGG](https://github.com/DingXiaoH/RepVGG)
 * [https://github.com/JUGGHM/OREPA_CVPR2022](https://github.com/JUGGHM/OREPA_CVPR2022)
 * [https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose](https://github.com/TexasInstruments/edgeai-yolov5/tree/yolo-pose)
-
+* [https://github.com/martin-marek/parking-space-occupancy](https://github.com/martin-marek/parking-space-occupancy)
 </details>
