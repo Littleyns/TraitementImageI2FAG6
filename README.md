@@ -2,7 +2,7 @@
 
 ## Installation
 
-# installer yolov7 dans le repertoire yolov7 dans ce repertoire
+### installer yolov7 dans le repertoire yolov7 dans ce repertoire
 
 [YOLOv7 github](https://github.com/WongKinYiu/yolov7)
 
