@@ -20,7 +20,7 @@ global conf_thres
 conf_thres = 0.4
 ws = Tk() 
 #ws = Toplevel()
-ws.title('with dataset maison')
+ws.title('inferrence')
 ws.geometry('1000x900') 
 
 global current_value
