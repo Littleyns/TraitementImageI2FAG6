@@ -28,6 +28,7 @@ python3 main.py
 
 ## Dataset
 ![alt text](illustrations/dataset_sample.jpg)
+
 [`dataset format yolov7`](https://app.roboflow.com/ds/msGt0OxmQr?key=Z74uECsA1J)
 
 ## Acknowledgements
