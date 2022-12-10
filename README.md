@@ -27,14 +27,12 @@ python3 main.py
 ```
 
 ## Dataset
-
+[`dataset format yolov7`](https://app.roboflow.com/ds/msGt0OxmQr?key=Z74uECsA1J)
 <div align="center">
     <a href="./">
         <img src="illustrations/dataset_sample.png" width="40%"/>
     </a>
 </div>
-
-[`dataset format yolov7`](https://app.roboflow.com/ds/msGt0OxmQr?key=Z74uECsA1J)
 
 ## Acknowledgements
 
