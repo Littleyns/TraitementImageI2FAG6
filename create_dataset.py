@@ -9,14 +9,7 @@ print(sys.path)
 import os
 import torch
 import torchvision
-'''
-# download the dataset
-if not os.path.exists('./dataset/data'):
-    r = requests.get("https://pub-e8bbdcbe8f6243b2a9933704a9b1d8bc.r2.dev/parking%2Frois_gopro.zip")
-    z = zipfile.ZipFile(io.BytesIO(r.content))
-    z.extractall('./dataset/data')
-    
-'''
+
 
 
 
@@ -42,31 +35,6 @@ def image_pt_to_np(image):
 
 
 
-'''
-for ele in range(len(test_ds)):
-    image_batch, rois_batch, labels_batch = next(iter(test_ds))
-
-    image_raw, rois, labels = image_batch[i], rois_batch[i], labels_batch[i]
-    image = transforms.preprocess(image_raw, res=1440)
-    vis.plot_ds_image(image, rois, labels, show=True)
-    print(len(rois))
-    with open('/home/toor/Desktop/doc_sco/image/dataset_of_github/main/parking-space-occupancy-main/dataset_out/label.txt', 'w') as f:
-        i=0
-        for carre in rois:
-            lab = str(labels[i].item()) + ' '
-            print(lab, end = '')
-            
-            f.write(lab)
-            i+=1
-            for coor in carre:
-                
-                for xy in coor:
-                    element = "{:.4f}".format((xy.item()))+ ' '
-                    print(element, end = '')
-                    f.write(element)
-            print()
-            f.write("\n")
-'''
 def create_annotation(fileFullPath,index,rois,labels,name):
     fileFullPath = fileFullPath+"/labels/"
     isExist = os.path.exists(fileFullPath)
