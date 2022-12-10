@@ -34,7 +34,7 @@ python3 main.py
     </a>
 </div>
 
-## Acknowledgements
+## Source
 
 <details><summary> <b>Expand</b> </summary>
 
