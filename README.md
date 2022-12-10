@@ -6,6 +6,12 @@
 
 [YOLOv7 github](https://github.com/WongKinYiu/yolov7)
 
+#apt install required package
+
+``` shell
+sudo apt-get install python3-pil python3-pil.imagetk
+```
+
 # pip install required packages
 
 ``` shell
