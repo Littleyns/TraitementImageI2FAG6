@@ -20,7 +20,7 @@ pip install requirement.txt
 
 ## Inference
 
-[`model_detection_place_de_parking.pt`](https://drive.google.com/file/d/1fUaCY3Y4cQ25UkDg87493DWbP4VpwiDl/view?usp=share_link)
+[`model_detection_place_de_parking.pt`](https://drive.google.com/u/0/uc?id=1fUaCY3Y4cQ25UkDg87493DWbP4VpwiDl)
 
 ``` shell
 python3 main.py 
