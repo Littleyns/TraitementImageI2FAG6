@@ -20,7 +20,7 @@ pip install requirement.txt
 python3 main.py 
 ```
 
-##dataset
+## Dataset
 
 [`dataset format yolov7`](https://app.roboflow.com/ds/msGt0OxmQr?key=Z74uECsA1J)
 
